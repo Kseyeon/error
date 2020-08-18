@@ -1,0 +1,84 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1d;
+      }
+    </style>
+  </defs>
+  <g id="그룹_645" data-name="그룹 645">
+    <g id="그룹_644" data-name="그룹 644">
+      <path id="패스_554" data-name="패스 554" class="cls-1" d="M17.656,1.563h-.937V0H15.156V1.563H4.844V0H3.281V1.563H2.344A2.346,2.346,0,0,0,0,3.906v13.75A2.346,2.346,0,0,0,2.344,20H17.656A2.346,2.346,0,0,0,20,17.656V3.906A2.346,2.346,0,0,0,17.656,1.563Zm.781,16.094a.782.782,0,0,1-.781.781H2.344a.782.782,0,0,1-.781-.781V7.344H18.438Zm0-11.875H1.563V3.906a.782.782,0,0,1,.781-.781h.938V4.688H4.844V3.125H15.156V4.688h1.563V3.125h.938a.782.782,0,0,1,.781.781Z"/>
+    </g>
+  </g>
+  <g id="그룹_647" data-name="그룹 647" transform="translate(2.969 8.984)">
+    <g id="그룹_646" data-name="그룹 646">
+      <rect id="사각형_1645" data-name="사각형 1645" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_649" data-name="그룹 649" transform="translate(6.094 8.984)">
+    <g id="그룹_648" data-name="그룹 648">
+      <rect id="사각형_1646" data-name="사각형 1646" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_651" data-name="그룹 651" transform="translate(9.219 8.984)">
+    <g id="그룹_650" data-name="그룹 650">
+      <rect id="사각형_1647" data-name="사각형 1647" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_653" data-name="그룹 653" transform="translate(12.344 8.984)">
+    <g id="그룹_652" data-name="그룹 652">
+      <rect id="사각형_1648" data-name="사각형 1648" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_655" data-name="그룹 655" transform="translate(15.469 8.984)">
+    <g id="그룹_654" data-name="그룹 654">
+      <rect id="사각형_1649" data-name="사각형 1649" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_657" data-name="그룹 657" transform="translate(2.969 12.109)">
+    <g id="그룹_656" data-name="그룹 656">
+      <rect id="사각형_1650" data-name="사각형 1650" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_659" data-name="그룹 659" transform="translate(6.094 12.109)">
+    <g id="그룹_658" data-name="그룹 658">
+      <rect id="사각형_1651" data-name="사각형 1651" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_661" data-name="그룹 661" transform="translate(9.219 12.109)">
+    <g id="그룹_660" data-name="그룹 660">
+      <rect id="사각형_1652" data-name="사각형 1652" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_663" data-name="그룹 663" transform="translate(12.344 12.109)">
+    <g id="그룹_662" data-name="그룹 662">
+      <rect id="사각형_1653" data-name="사각형 1653" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_665" data-name="그룹 665" transform="translate(2.969 15.234)">
+    <g id="그룹_664" data-name="그룹 664">
+      <rect id="사각형_1654" data-name="사각형 1654" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_667" data-name="그룹 667" transform="translate(6.094 15.234)">
+    <g id="그룹_666" data-name="그룹 666">
+      <rect id="사각형_1655" data-name="사각형 1655" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_669" data-name="그룹 669" transform="translate(9.219 15.234)">
+    <g id="그룹_668" data-name="그룹 668">
+      <rect id="사각형_1656" data-name="사각형 1656" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_671" data-name="그룹 671" transform="translate(12.344 15.234)">
+    <g id="그룹_670" data-name="그룹 670">
+      <rect id="사각형_1657" data-name="사각형 1657" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+  <g id="그룹_673" data-name="그룹 673" transform="translate(15.469 12.109)">
+    <g id="그룹_672" data-name="그룹 672">
+      <rect id="사각형_1658" data-name="사각형 1658" class="cls-1" width="1.563" height="1.563"/>
+    </g>
+  </g>
+</svg>

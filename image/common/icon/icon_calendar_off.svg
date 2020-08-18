@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.686" height="22" viewBox="0 0 21.686 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c3c3c3;
+      }
+    </style>
+  </defs>
+  <g id="calendar" transform="translate(-0.208)">
+    <path id="패스_541" data-name="패스 541" class="cls-1" d="M21.212,4.643A1.522,1.522,0,0,0,22.738,3.12V1.526a1.526,1.526,0,1,0-3.051,0V3.121A1.522,1.522,0,0,0,21.212,4.643Z" transform="translate(-4.763)"/>
+    <path id="패스_542" data-name="패스 542" class="cls-1" d="M21.87,3.482H18.8v.776a2.323,2.323,0,1,1-4.645,0V3.482h-6.2v.776a2.323,2.323,0,1,1-4.647,0V3.482l-3.1-.039v19.4H20.346l1.548,0ZM20.344,21.3H1.758V8.9H20.346V21.3Z" transform="translate(0 -0.842)"/>
+    <path id="패스_543" data-name="패스 543" class="cls-1" d="M6.861,4.643A1.523,1.523,0,0,0,8.387,3.12V1.526a1.526,1.526,0,1,0-3.051,0V3.121A1.52,1.52,0,0,0,6.861,4.643Z" transform="translate(-1.254)"/>
+    <rect id="사각형_1621" data-name="사각형 1621" class="cls-1" width="2.441" height="2.155" transform="translate(7.959 9.725)"/>
+    <rect id="사각형_1622" data-name="사각형 1622" class="cls-1" width="2.443" height="2.155" transform="translate(11.906 9.725)"/>
+    <rect id="사각형_1623" data-name="사각형 1623" class="cls-1" width="2.441" height="2.155" transform="translate(15.566 9.725)"/>
+    <rect id="사각형_1624" data-name="사각형 1624" class="cls-1" width="2.441" height="2.153" transform="translate(7.959 13.303)"/>
+    <rect id="사각형_1625" data-name="사각형 1625" class="cls-1" width="2.443" height="2.153" transform="translate(11.906 13.303)"/>
+    <rect id="사각형_1626" data-name="사각형 1626" class="cls-1" width="2.441" height="2.153" transform="translate(15.566 13.303)"/>
+    <rect id="사각형_1627" data-name="사각형 1627" class="cls-1" width="2.441" height="2.153" transform="translate(7.959 16.952)"/>
+    <rect id="사각형_1628" data-name="사각형 1628" class="cls-1" width="2.439" height="2.153" transform="translate(4.082 13.303)"/>
+    <rect id="사각형_1629" data-name="사각형 1629" class="cls-1" width="2.439" height="2.153" transform="translate(4.082 16.952)"/>
+    <rect id="사각형_1630" data-name="사각형 1630" class="cls-1" width="2.443" height="2.153" transform="translate(11.906 16.952)"/>
+    <rect id="사각형_1631" data-name="사각형 1631" class="cls-1" width="2.441" height="2.153" transform="translate(15.566 16.952)"/>
+  </g>
+</svg>

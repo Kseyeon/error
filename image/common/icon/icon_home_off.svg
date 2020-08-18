@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #c3c3c3;
+      }
+    </style>
+  </defs>
+  <g id="home-interface" transform="translate(-34 -20.804)">
+    <rect id="사각형_1659" data-name="사각형 1659" class="cls-1" width="24" height="24" transform="translate(34 20.804)"/>
+    <g id="그룹_676" data-name="그룹 676" transform="translate(35 22.804)">
+      <g id="그룹_675" data-name="그룹 675" transform="translate(0 0)">
+        <g id="그룹_674" data-name="그룹 674">
+          <path id="패스_558" data-name="패스 558" class="cls-2" d="M21.764,31.909,11.452,22.972a.687.687,0,0,0-.9,0L6.875,26.156v-1.29a1.375,1.375,0,0,0-2.75,0v3.673L.236,31.909a.688.688,0,1,0,.9,1.039L11,24.4l9.86,8.547a.689.689,0,0,0,.9-1.039Z" transform="translate(0 -22.804)"/>
+          <path id="패스_559" data-name="패스 559" class="cls-2" d="M69.924,129.522a1.367,1.367,0,0,0-1.742,0l-6.875,5.636a1.373,1.373,0,0,0-.5,1.064v6.736a1.375,1.375,0,0,0,1.375,1.375H66.3v-6.875h5.5v6.875h4.125a1.376,1.376,0,0,0,1.375-1.375v-6.736a1.367,1.367,0,0,0-.5-1.063Z" transform="translate(-58.054 -124.396)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
